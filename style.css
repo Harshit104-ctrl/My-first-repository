@@ -1,0 +1,145 @@
+.background{
+    height: 500px;
+    width: 800px;
+    margin-top: 80px;
+    margin-left: 270px;
+    border: 50px solid rgb(255, 200, 0);
+    display: flex;
+    box-shadow: 10px 10px 20px  rgb(74, 74, 74);
+   
+}
+.img{
+    background-size: cover;
+    height: 500px;
+    width: 400px;
+    background-image: url("background img.png");
+   
+   
+}
+
+.sign-up-page{
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    
+
+}
+.text1{
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    text-align: center;
+    font-weight: 500;
+    margin-top: 20px;
+    
+}
+.name{
+    height: 45px;
+    width: 260px;
+    background-color:  rgb(204, 201, 201);
+    border-radius: 10px;
+    margin-left: 70px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    box-shadow: 5px 5px 5px rgb(83, 82, 82) inset;
+}
+.password{
+    height: 45px;
+    width: 260px;
+    background-color:  rgb(204, 201, 201);
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    box-shadow: 5px 5px 5px rgb(83, 82, 82) inset;
+}
+.repeat{
+    height: 45px;
+    width: 260px;
+    background-color:  rgb(204, 201, 201);
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border: none;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    box-shadow: 5px 5px 5px rgb(83, 82, 82) inset;
+}
+
+.select{
+    padding-left:15px;
+}
+
+.select:hover{
+    border:2px solid black;
+}
+.text2{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+}
+button{
+    height:30px ;
+    width: 110px;
+    background-color:  rgb(243, 208, 82);
+    border: none;
+   
+    border-radius: 5px;
+    margin-left: 145px;
+    margin-top: 15px;
+}
+
+  
+.logo i{
+    font-size: 40px;
+    color: rgb(255, 200, 0); 
+    margin-top: 20px;
+    margin-left: 20px;;
+}   
+.text{
+    height: 80px;
+    width: 300px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    margin-left: 50px;
+    margin-top: 80px;
+    filter: brightness(100%);
+}
+.learn-more{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(255, 200, 0); 
+   margin-left: 50px;
+   margin-top: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 5px;
+   font-family: 'Segoe UI';
+   opacity: 55%;
+}
+.pages{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Segoe UI';
+}
+.pages a{
+    margin-left: 12px;
+}
+.menu-icon{
+    margin-left: 350px;
+    font-size: 20px;
+    margin-top: 20px;
+}
